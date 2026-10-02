@@ -1,0 +1,6 @@
+str_length=input("please type lenth :\n")
+str_width=input("please type width :\n")
+length=(float(str_length))
+width=(float(str_width))
+area=(str(length*width))
+print("the total area is :"+area)
